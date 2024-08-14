@@ -2,6 +2,6 @@
 
 ## Heading
 
-*Bullet 1
-*Bullet 2
-*etc.
+* Bullet 1
+* Bullet 2
+* etc.
